@@ -1,0 +1,6 @@
+{
+  "name": "Rockwell Institute",
+  "description": "A redesigned, modern, and interactive website for Rockwell Institute, the leading real estate education and training provider in Washington.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
